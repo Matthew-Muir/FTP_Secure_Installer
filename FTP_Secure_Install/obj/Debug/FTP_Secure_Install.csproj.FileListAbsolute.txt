@@ -1,0 +1,9 @@
+C:\Users\mattm\source\repos\FTP_Secure_Install\FTP_Secure_Install\bin\Debug\FTP_Secure_Install.exe.config
+C:\Users\mattm\source\repos\FTP_Secure_Install\FTP_Secure_Install\bin\Debug\FTP_Secure_Install.exe
+C:\Users\mattm\source\repos\FTP_Secure_Install\FTP_Secure_Install\bin\Debug\FTP_Secure_Install.pdb
+C:\Users\mattm\source\repos\FTP_Secure_Install\FTP_Secure_Install\obj\Debug\FTP_Secure_Install.csproj.AssemblyReference.cache
+C:\Users\mattm\source\repos\FTP_Secure_Install\FTP_Secure_Install\obj\Debug\FTP_Secure_Install.Resource1.resources
+C:\Users\mattm\source\repos\FTP_Secure_Install\FTP_Secure_Install\obj\Debug\FTP_Secure_Install.csproj.GenerateResource.cache
+C:\Users\mattm\source\repos\FTP_Secure_Install\FTP_Secure_Install\obj\Debug\FTP_Secure_Install.csproj.CoreCompileInputs.cache
+C:\Users\mattm\source\repos\FTP_Secure_Install\FTP_Secure_Install\obj\Debug\FTP_Secure_Install.exe
+C:\Users\mattm\source\repos\FTP_Secure_Install\FTP_Secure_Install\obj\Debug\FTP_Secure_Install.pdb
